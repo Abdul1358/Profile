@@ -1,5 +1,5 @@
 # Profile
-my profile
+
 <!-- HEADER SECTION -->
 <h1 align="center">Hi 👋, I'm Abdul Salam</h1>
 <h3 align="center">Frontend Development Learner @ ALX</h3>
